@@ -451,7 +451,7 @@ const CustomCalendar: React.FC = () => {
                     ]
                 }
             },
-            start: new Date(2025, 4, 28, 18, 0),
+            start: new Date(2025, 4, 27, 18, 0),
             end: new Date(2025, 4, 28, 18, 0),
             type: "DS"
         },
