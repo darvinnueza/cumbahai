@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 interface EventDialogProps {
     event: any;
@@ -6,30 +6,42 @@ interface EventDialogProps {
 }
 
 const EventDialog: React.FC<EventDialogProps> = ({ event, onClose }) => {
-
-    if (!event) return null;
-
     return (
-        <div className="fixed inset-0 bg-black bg-opacity-40 flex items-center justify-center z-50">
-            <div className="bg-white rounded-lg shadow-lg p-6 max-w-md w-full">
-                <h2 className="text-xl font-bold text-center mb-4">
-                    {event.description}
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
+            <div className="bg-white rounded-xl shadow-xl max-w-sm w-full p-6 text-center">
+                {/* Evento */}
+                <h2 className="text-2xl font-semibold text-emerald-800 mb-2">
+                    {event.event}
                 </h2>
-                <div className="text-left space-y-2">
-                    <p><strong>Anfitrión:</strong> {event.host.name}</p>
-                    <p><strong>Contactos:</strong></p>
-                    <ul className="pl-4">
-                        {event.host.phones.mobile.map((p, idx) => (
-                            <li key={idx}>
-                                {p.name}: {p.number}
+                {/* Titulo */}
+                <p className="text-lg text-gray-700 mb-4">
+                    {event.title}
+                </p>
+                {/* Anfitrión */}
+                <div className="text-center">
+                    <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide">
+                        Anfitrión
+                    </h3>
+                    <p className="text-md text-gray-800 mb-4">{event.host.name}</p>
+
+                    {/* Contactos */}
+                    <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide">
+                        Contactos
+                    </h3>
+                    <ul className="text-md text-gray-700 space-y-1">
+                        {event.host.phones.mobile.map((contact: any, index: number) => (
+                            <li key={index}>
+                                {contact.name}: {contact.number}
                             </li>
                         ))}
                     </ul>
                 </div>
+
+                {/* Botón cerrar */}
                 <button
                     onClick={onClose}
-                    className="mt-4 px-4 py-2 bg-emerald-700 text-white rounded hover:bg-emerald-800"
-                    >
+                    className="mt-6 px-4 py-2 bg-emerald-700 text-white rounded hover:bg-emerald-800"
+                >
                     Cerrar
                 </button>
             </div>
