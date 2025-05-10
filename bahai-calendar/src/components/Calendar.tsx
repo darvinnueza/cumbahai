@@ -69,7 +69,8 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Roya Ahourayan",
-                            number: "0984060552"
+                            number: "+593 98 406 0552"
+                            
                         }
                     ]
                 }
@@ -87,7 +88,7 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Manucher Ashrafi",
-                            number: "0999021021"
+                            number: "+593 99 902 1021"
                         }
                     ]
                 }
@@ -105,7 +106,7 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Hilda Ayala",
-                            number: "0987022011"
+                            number: "+593 98 702 2011"
                         }
                     ]
                 }
@@ -123,11 +124,11 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Josefina Lojan",
-                            number: "0984407260"
+                            number: "+593 99 521 2781"
                         },
                         {
                             name: "Fernando Baez",
-                            number: "0997866337"
+                            number: "+593 99 786 6337"
                         }
                     ]
                 }
@@ -239,7 +240,7 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Roya Ahourayan",
-                            number: "0984060552"
+                            number: "+593 98 406 0552"
                         }
                     ]
                 }
@@ -257,7 +258,7 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Manucher Ashrafi",
-                            number: "0999021021"
+                            number: "+593 99 902 1021"
                         }
                     ]
                 }
@@ -275,7 +276,7 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Hilda Ayala",
-                            number: "0987022011"
+                            number: "+593 98 702 2011"
                         }
                     ]
                 }
@@ -293,11 +294,11 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Josefina Lojan",
-                            number: "0984407260"
+                            number: "+593 99 521 2781"
                         },
                         {
                             name: "Fernando Baez",
-                            number: "0997866337"
+                            number: "+593 99 786 6337"
                         }
                     ]
                 }
@@ -409,7 +410,7 @@ const CustomCalendar: React.FC = () => {
                     mobile: [
                         {
                             name: "Roya Ahourayan",
-                            number: "0984060552"
+                            number: "+593 98 406 0552"
                         }
                     ]
                 }
