@@ -7,6 +7,7 @@ import EventDialog from "./EventDialog";
 
 import enUS from 'date-fns/locale/en-US';
 import esES from 'date-fns/locale/es';
+import Legend from "./Legend";
 
 // Configuración correcta de locales
 const localesConfig = {
@@ -588,16 +589,20 @@ const CustomCalendar: React.FC = () => {
 
     return (
         <div className="p-4">
-            <div className="flex justify-end mb-4">
-                <select
-                    value={language}
-                    onChange={(e) => setLanguage(e.target.value as 'en' | 'es')}
-                    className="border p-2 rounded"
-                >
-                    <option value="es">Español</option>
-                    <option value="en">English</option>
-                </select>
+            <div className="flex justify-between items-center mb-4 flex-wrap">
+                <div>
+                    <select
+                        value={language}
+                        onChange={(e) => setLanguage(e.target.value as 'en' | 'es')}
+                        className="border p-2 rounded"
+                    >
+                        <option value="es">Español</option>
+                        <option value="en">English</option>
+                    </select>
+                </div>
+                <Legend />
             </div>
+
             <Calendar 
                 localizer={localizer}
                 events={events}
@@ -621,7 +626,7 @@ const CustomCalendar: React.FC = () => {
                     let backgroundColor = '#3174ad'; // por defecto
 
                     if (event.type === 'F19D') backgroundColor = '#008573'; // verde
-                    if (event.type === 'DS') backgroundColor = '#641B17';  // amarillo
+                    if (event.type === 'DS') backgroundColor = '#641B17';  // rojo
                     if (event.type === 'jeque') backgroundColor = '#f87171';  // rojo
 
                     return {
