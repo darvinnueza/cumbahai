@@ -63,7 +63,7 @@ const CustomCalendar: React.FC = () => {
     const events = [
         {
             event: "Fiesta de 19 Días",
-            title: "Bahá/Esplendor",
+            title: "🕊️ Bahá/Esplendor",
             host: {
                 name: "Ahourayan Roya",
                 phones: {
@@ -82,7 +82,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Jalál/Gloria",
+            title: "🕊️ Jalál/Gloria",
             host: {
                 name: "Ashrafi Manucher",
                 phones: {
@@ -100,7 +100,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Jamál/Belleza",
+            title: "🕊️ Jamál/Belleza",
             host: {
                 name: "Ayala Hilda",
                 phones: {
@@ -118,7 +118,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "‘Aẓamat/Grandeza",
+            title: "✨ 🕊️ ‘Aẓamat/Grandeza",
             host: {
                 name: "Fam. Baez Lojan",
                 phones: {
@@ -140,7 +140,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Núr/Luz",
+            title: "🕊️ Núr/Luz",
             host: {
                 name: "Mansuri Gretchen",
                 phones: {
@@ -158,7 +158,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Raḥmat/Misericordia",
+            title: "🕊️ Raḥmat/Misericordia",
             host: {
                 name: "Fam. Paredes Mansuri",
                 phones: {
@@ -180,7 +180,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Kalimát/Palabras",
+            title: "🕊️ Kalimát/Palabras",
             host: {
                 name: "Fam. Vinueza Mier",
                 phones: {
@@ -198,7 +198,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Kamál/Perfección",
+            title: "🕊️ Kamál/Perfección",
             host: {
                 name: "Fam. Vinueza Flores",
                 phones: {
@@ -216,7 +216,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Asmá’/Nombres",
+            title: "🕊️ Asmá’/Nombres",
             host: {
                 name: "Vahdat Tarasieh",
                 phones: {
@@ -234,7 +234,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "‘Izzat/Fuerza",
+            title: "🕊️ ‘Izzat/Fuerza",
             host: {
                 name: "Ahourayan Roya",
                 phones: {
@@ -252,7 +252,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Mashíyyat/Voluntad",
+            title: "🕊️ Mashíyyat/Voluntad",
             host: {
                 name: "Ashrafi Manucher",
                 phones: {
@@ -270,7 +270,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "‘Ilm/Conocimiento",
+            title: "🕊️ ‘Ilm/Conocimiento",
             host: {
                 name: "Ayala Hilda",
                 phones: {
@@ -288,7 +288,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Qudrat/Poder",
+            title: "🕊️ Qudrat/Poder",
             host: {
                 name: "Fam. Baez Lojan",
                 phones: {
@@ -310,7 +310,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Qawl/Expresión",
+            title: "🕊️ Qawl/Expresión",
             host: {
                 name: "Mansuri Gretchen",
                 phones: {
@@ -328,7 +328,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Masá’il/Preguntas",
+            title: "🕊️ Masá’il/Preguntas",
             host: {
                 name: "Fam. Paredes Mansuri",
                 phones: {
@@ -350,7 +350,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Sharaf/Honor",
+            title: "🕊️ Sharaf/Honor",
             host: {
                 name: "Fam. Vinueza Mier",
                 phones: {
@@ -368,7 +368,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Sulṭán/Soberanía",
+            title: "🕊️ Sulṭán/Soberanía",
             host: {
                 name: "Fam. Vinueza Flores",
                 phones: {
@@ -386,7 +386,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "Mulk/Dominio",
+            title: "🕊️ Mulk/Dominio",
             host: {
                 name: "Vahdat Tarasieh",
                 phones: {
@@ -404,7 +404,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "‘Alá’/Sublimidad",
+            title: "🕊️ ‘Alá’/Sublimidad",
             host: {
                 name: "Ahourayan Roya",
                 phones: {
@@ -422,7 +422,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Declaración del Báb",
+            title: "✨ Declaración del Báb",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -435,7 +435,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Ascensión de Bahá'u'lláh",
+            title: "✨ Ascensión de Bahá'u'lláh",
             host: {
                 name: "Fam. Paredes Mansuri",
                 phones: {
@@ -457,7 +457,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Martirio del Báb",
+            title: "✨ Martirio del Báb",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -470,7 +470,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Nacimiento del Báb",
+            title: "✨ Nacimiento del Báb",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -483,7 +483,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Nacimiento de Bahá'u'lláh",
+            title: "✨ Nacimiento de Bahá'u'lláh",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -496,7 +496,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Día de la Alianza",
+            title: "✨ Día de la Alianza",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -509,7 +509,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Ascensión de 'Abdu'l-Bahá",
+            title: "✨ Ascensión de 'Abdu'l-Bahá",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -522,7 +522,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Período de Ayuno",
+            title: "✨ Período de Ayuno",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -535,7 +535,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Naw-Rúz",
+            title: "✨ Naw-Rúz",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -548,7 +548,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Primer día de Ridván",
+            title: "✨ Primer día de Ridván",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -561,7 +561,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Noveno día de Ridván",
+            title: "✨ Noveno día de Ridván",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -574,7 +574,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Día Sagrado",
-            title: "Duodécimo día de Ridván",
+            title: "✨ Duodécimo día de Ridván",
             host: {
                 name: "Sin Anfitrión",
                 phones: {
@@ -588,7 +588,7 @@ const CustomCalendar: React.FC = () => {
     ];
 
     return (
-        <div className="p-4">
+        <div className="md:px-8 md:py-6 rounded-xl shadow bg-white">
             <div className="flex justify-between items-center mb-4 flex-wrap">
                 <div>
                     <select
