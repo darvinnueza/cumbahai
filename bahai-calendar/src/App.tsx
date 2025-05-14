@@ -6,7 +6,7 @@ import CustomCalendar from './components/Calendar';
 function App() {
 
   return (
-    <div className="bg-white min-h-screen rbc-date-cell font-medium">
+    <div className="min-h-screen">
       <Header />
       <CustomCalendar />
     </div>
