@@ -118,7 +118,7 @@ const CustomCalendar: React.FC = () => {
         },
         {
             event: "Fiesta de 19 Días",
-            title: "✨ 🕊️ ‘Aẓamat/Grandeza",
+            title: " 🕊️ ‘Aẓamat/Grandeza",
             host: {
                 name: "Fam. Baez Lojan",
                 phones: {
