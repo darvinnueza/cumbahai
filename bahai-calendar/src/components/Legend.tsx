@@ -15,6 +15,12 @@ const Legend: React.FC = () => {
                 }}></div>
                 <span>Días Sagrados</span>
             </div>
+            <div className="flex items-center space-x-2">
+                <div className="w-4 h-4 rounded" style={{
+                    backgroundColor: "#1976D2"
+                }}></div>
+                <span>Devocional Quincenal</span>
+            </div>
         </div>
     );
 };

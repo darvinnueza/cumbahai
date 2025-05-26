@@ -80,12 +80,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Núr/Luz",
         "host": {
-            "name": "Mansuri Gretchen",
+            "name": "Vahdat Tarasieh",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Gretchen Mansuri",
-                        "number": "+593 99 537 0289"
+                        "name": "Tarasieh Vahdat",
+                        "number": "+593 99 189 8025"
                     }
                 ]
             }
@@ -97,6 +97,24 @@
     {
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Raḥmat/Misericordia",
+        "host": {
+            "name": "Fam. Mero",
+            "phones": {
+                "mobile": [
+                    {
+                        "name": "Adelaida Acosta",
+                        "number": "+593 95 986 4239"
+                    }
+                ]
+            }
+        },
+        "start": "2025-06-22T18:00:00.000Z",
+        "end": "2025-06-23T18:00:00.000Z",
+        "type": "F19D"
+    },
+    {
+        "event": "Fiesta de 19 Días",
+        "title": "🕊️ Kalimát/Palabras",
         "host": {
             "name": "Fam. Paredes Mansuri",
             "phones": {
@@ -112,24 +130,6 @@
                 ]
             }
         },
-        "start": "2025-06-22T18:00:00.000Z",
-        "end": "2025-06-23T18:00:00.000Z",
-        "type": "F19D"
-    },
-    {
-        "event": "Fiesta de 19 Días",
-        "title": "🕊️ Kalimát/Palabras",
-        "host": {
-            "name": "Fam. Vinueza Mier",
-            "phones": {
-                "mobile": [
-                    {
-                        "name": "Charito Vinueza",
-                        "number": "+593 98 349 9974"
-                    }
-                ]
-            }
-        },
         "start": "2025-07-11T18:00:00.000Z",
         "end": "2025-07-12T18:00:00.000Z",
         "type": "F19D"
@@ -138,12 +138,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Kamál/Perfección",
         "host": {
-            "name": "Fam. Vinueza Flores",
+            "name": "Fam. Vinueza Mier",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Dario Vinueza",
-                        "number": "+593 98 708 1772"
+                        "name": "Charito Vinueza",
+                        "number": "+593 98 349 9974"
                     }
                 ]
             }
@@ -156,12 +156,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Asmá’/Nombres",
         "host": {
-            "name": "Vahdat Tarasieh",
+            "name": "Fam. Vinueza Flores",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Tarasieh Vahdat",
-                        "number": "+593 99 189 8025"
+                        "name": "Dario Vinueza",
+                        "number": "+593 98 708 1772"
                     }
                 ]
             }
@@ -174,12 +174,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ ‘Izzat/Fuerza",
         "host": {
-            "name": "Ahourayan Roya",
+            "name": "Vahdat Tarasieh",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Roya Ahourayan",
-                        "number": "+593 98 406 0552"
+                        "name": "Tarasieh Vahdat",
+                        "number": "+593 99 189 8025"
                     }
                 ]
             }
@@ -192,12 +192,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Mashíyyat/Voluntad",
         "host": {
-            "name": "Ashrafi Manucher",
+            "name": "Ahourayan Roya",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Manucher Ashrafi",
-                        "number": "+593 99 902 1021"
+                        "name": "Roya Ahourayan",
+                        "number": "+593 98 406 0552"
                     }
                 ]
             }
@@ -210,12 +210,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ ‘Ilm/Conocimiento",
         "host": {
-            "name": "Ayala Hilda",
+            "name": "Ashrafi Manucher",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Hilda Ayala",
-                        "number": "+593 98 702 2011"
+                        "name": "Manucher Ashrafi",
+                        "number": "+593 99 902 1021"
                     }
                 ]
             }
@@ -227,6 +227,24 @@
     {
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Qudrat/Poder",
+        "host": {
+            "name": "Ayala Hilda",
+            "phones": {
+                "mobile": [
+                    {
+                        "name": "Hilda Ayala",
+                        "number": "+593 98 702 2011"
+                    }
+                ]
+            }
+        },
+        "start": "2025-11-02T18:00:00.000Z",
+        "end": "2025-11-03T18:00:00.000Z",
+        "type": "F19D"
+    },
+    {
+        "event": "Fiesta de 19 Días",
+        "title": "🕊️ Qawl/Expresión",
         "host": {
             "name": "Fam. Baez Lojan",
             "phones": {
@@ -242,13 +260,13 @@
                 ]
             }
         },
-        "start": "2025-11-02T18:00:00.000Z",
-        "end": "2025-11-03T18:00:00.000Z",
+        "start": "2025-11-21T18:00:00.000Z",
+        "end": "2025-11-22T18:00:00.000Z",
         "type": "F19D"
     },
     {
         "event": "Fiesta de 19 Días",
-        "title": "🕊️ Qawl/Expresión",
+        "title": "🕊️ Masá’il/Preguntas",
         "host": {
             "name": "Mansuri Gretchen",
             "phones": {
@@ -260,13 +278,13 @@
                 ]
             }
         },
-        "start": "2025-11-21T18:00:00.000Z",
-        "end": "2025-11-22T18:00:00.000Z",
+        "start": "2025-12-10T18:00:00.000Z",
+        "end": "2025-12-11T18:00:00.000Z",
         "type": "F19D"
     },
     {
         "event": "Fiesta de 19 Días",
-        "title": "🕊️ Masá’il/Preguntas",
+        "title": "🕊️ Sharaf/Honor",
         "host": {
             "name": "Fam. Paredes Mansuri",
             "phones": {
@@ -282,24 +300,6 @@
                 ]
             }
         },
-        "start": "2025-12-10T18:00:00.000Z",
-        "end": "2025-12-11T18:00:00.000Z",
-        "type": "F19D"
-    },
-    {
-        "event": "Fiesta de 19 Días",
-        "title": "🕊️ Sharaf/Honor",
-        "host": {
-            "name": "Fam. Vinueza Mier",
-            "phones": {
-                "mobile": [
-                    {
-                        "name": "Charito Vinueza",
-                        "number": "+593 98 349 9974"
-                    }
-                ]
-            }
-        },
         "start": "2025-12-29T18:00:00.000Z",
         "end": "2025-12-30T18:00:00.000Z",
         "type": "F19D"
@@ -308,12 +308,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Sulṭán/Soberanía",
         "host": {
-            "name": "Fam. Vinueza Flores",
+            "name": "Fam. Vinueza Mier",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Dario Vinueza",
-                        "number": "+593 98 708 1772"
+                        "name": "Charito Vinueza",
+                        "number": "+593 98 349 9974"
                     }
                 ]
             }
@@ -326,12 +326,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ Mulk/Dominio",
         "host": {
-            "name": "Vahdat Tarasieh",
+            "name": "Fam. Vinueza Flores",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Tarasieh Vahdat",
-                        "number": "+593 99 189 8025"
+                        "name": "Dario Vinueza",
+                        "number": "+593 98 708 1772"
                     }
                 ]
             }
@@ -344,12 +344,12 @@
         "event": "Fiesta de 19 Días",
         "title": "🕊️ ‘Alá’/Sublimidad",
         "host": {
-            "name": "Ahourayan Roya",
+            "name": "Vahdat Tarasieh",
             "phones": {
                 "mobile": [
                     {
-                        "name": "Roya Ahourayan",
-                        "number": "+593 98 406 0552"
+                        "name": "Tarasieh Vahdat",
+                        "number": "+593 99 189 8025"
                     }
                 ]
             }
@@ -375,13 +375,22 @@
         "event": "Día Sagrado",
         "title": "✨ Declaración del Báb",
         "host": {
-            "name": "Sin Anfitrión",
+            "name": "Fam. Mansuri Rinehart",
             "phones": {
-                "mobile": []
+                "mobile": [
+                    {
+                        "name": "Gretchen Mansuri",
+                        "number": "+593 99 537 0289"
+                    },
+                    {
+                        "name": "Najin Mansuri",
+                        "number": "+593 99 537 0290"
+                    }
+                ]
             }
         },
-        "start": "2025-05-4T18:00:00.000Z",
-        "end": "2025-05-4T18:00:00.000Z",
+        "start": "2025-05-22T18:00:00.000Z",
+        "end": "2025-05-23T18:00:00.000Z",
         "type": "DS"
     },
     {
@@ -403,16 +412,21 @@
             }
         },
         "start": "2025-05-27T18:00:00.000Z",
-        "end": "2025-05-28T18:00:00.000Z",
+        "end": "2025-05-27T18:00:00.000Z",
         "type": "DS"
     },
     {
         "event": "Día Sagrado",
         "title": "✨ Martirio del Báb",
         "host": {
-            "name": "Sin Anfitrión",
+            "name": "Vahdat Tarasieh",
             "phones": {
-                "mobile": []
+                "mobile": [
+                    {
+                        "name": "Tarasieh Vahdat",
+                        "number": "+593 99 189 8025"
+                    }
+                ]
             }
         },
         "start": "2025-07-09T18:00:00.000Z",
@@ -470,6 +484,305 @@
         "start": "2025-11-27T18:00:00.000Z",
         "end": "2025-11-27T18:00:00.000Z",
         "type": "DS"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-05-18T09:00:00.000Z",
+        "end": "2025-05-18T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-06-01T09:00:00.000Z",
+        "end": "2025-06-01T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-06-15T09:00:00.000Z",
+        "end": "2025-06-15T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-06-29T09:00:00.000Z",
+        "end": "2025-06-29T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-07-13T09:00:00.000Z",
+        "end": "2025-07-13T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-07-27T09:00:00.000Z",
+        "end": "2025-07-27T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-08-10T09:00:00.000Z",
+        "end": "2025-08-10T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-08-24T09:00:00.000Z",
+        "end": "2025-08-24T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-09-07T09:00:00.000Z",
+        "end": "2025-09-07T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-09-21T09:00:00.000Z",
+        "end": "2025-09-21T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-10-05T09:00:00.000Z",
+        "end": "2025-10-05T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-10-19T09:00:00.000Z",
+        "end": "2025-10-19T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-11-02T09:00:00.000Z",
+        "end": "2025-11-02T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-11-16T09:00:00.000Z",
+        "end": "2025-11-16T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-11-30T09:00:00.000Z",
+        "end": "2025-11-30T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-12-14T09:00:00.000Z",
+        "end": "2025-12-14T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2025-12-28T09:00:00.000Z",
+        "end": "2025-12-28T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2026-01-11T09:00:00.000Z",
+        "end": "2026-01-11T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2026-01-25T09:00:00.000Z",
+        "end": "2026-01-25T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2026-02-08T09:00:00.000Z",
+        "end": "2026-02-08T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2026-02-22T09:00:00.000Z",
+        "end": "2026-02-22T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2026-03-08T09:00:00.000Z",
+        "end": "2026-03-08T10:00:00.000Z",
+        "type": "DEV"
+    },
+    {
+        "event": "Devocional",
+        "title": "📖 Devocional Quincenal",
+        "host": {
+            "name": "Comunidad Bahá’í de Cumbayá",
+            "phones": {
+                "mobile": []
+            }
+        },
+        "start": "2026-03-22T09:00:00.000Z",
+        "end": "2026-03-22T10:00:00.000Z",
+        "type": "DEV"
     },
     {
         "event": "Día Sagrado",

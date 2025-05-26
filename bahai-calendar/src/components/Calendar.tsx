@@ -106,11 +106,9 @@ const CustomCalendar: React.FC = () => {
                 }}
                 eventPropGetter={(event) => {
                     let backgroundColor = '#3174ad'; // por defecto
-
                     if (event.type === 'F19D') backgroundColor = '#008573'; // verde
                     if (event.type === 'DS') backgroundColor = '#641B17';  // rojo
-                    if (event.type === 'jeque') backgroundColor = '#f87171';  // rojo
-
+                    if (event.type === 'DEV') backgroundColor = '#1976D2';  // azul
                     return {
                         style: {
                             backgroundColor,
