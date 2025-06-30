@@ -1,0 +1,10 @@
+/* src/styles/prime-overrides.css */
+
+.p-sortable-column.p-highlight {
+  background-color: white !important;
+  color: #1f2937 !important; /* gray-800 */
+}
+
+.p-sortable-column.p-highlight .p-sortable-column-icon {
+  color: #4b5563 !important; /* gray-600 */
+}

@@ -1,0 +1,63 @@
+---
+openapi: 3.1.0
+tags:
+- name: Catalog
+  description: Operations related to catalogs
+paths:
+  /api/v1/catalogs:
+    get:
+      tags:
+      - Catalog
+      responses:
+        "200":
+          description: OK
+      summary: Find All
+    post:
+      tags:
+      - Catalog
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CatalogRequest"
+        required: true
+      responses:
+        "200":
+          description: OK
+        "400":
+          description: Bad Request
+      summary: Create
+  /api/v1/catalogs/{id}:
+    get:
+      tags:
+      - Catalog
+      parameters:
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: integer
+          format: int64
+      responses:
+        "200":
+          description: OK
+      summary: Find By Id
+components:
+  schemas:
+    CatalogRequest:
+      type: object
+      properties:
+        code:
+          type: string
+        name:
+          type: string
+info:
+  title: Community Events Api
+  version: "1.0"
+  description: "API for managing catalogs and events of the Baha'i community in Cumbaya,\
+    \ designed to support administrative and organizational needs."
+servers:
+- url: http://localhost:8081
+  description: Auto generated value
+- url: http://0.0.0.0:8081
+  description: Auto generated value

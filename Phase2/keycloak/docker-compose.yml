@@ -17,7 +17,16 @@ services:
     image: quay.io/keycloak/keycloak:24.0.3
     container_name: keycloak
     #command: start --db=postgres --db-url-host=postgres --db-username=keycloak --db-password=password --db-schema=public --http-relative-path=/auth --hostname-strict=false --import-realm
-    command: start-dev --db=postgres --db-url-host=postgres --db-username=keycloak --db-password=password --db-schema=public --http-relative-path=/auth --hostname-strict=false
+    command: 
+      start-dev 
+      --db=postgres 
+      --db-url-host=postgres 
+      --db-username=keycloak 
+      --db-password=password 
+      --db-schema=public 
+      --http-relative-path=/auth 
+      --hostname-strict=false
+      --import-realm
     environment:
       KC_DB: postgres
       KC_DB_URL_HOST: postgres
@@ -28,6 +37,8 @@ services:
       KEYCLOAK_ADMIN_PASSWORD: admin
     ports:
       - "8080:8080"
+    volumes:
+      - ./config_realms:/opt/keycloak/data/import
     depends_on:
       - postgres
 

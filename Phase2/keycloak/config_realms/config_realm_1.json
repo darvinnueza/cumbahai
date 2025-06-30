@@ -1,0 +1,31 @@
+{
+    "realm": "bahai-cumbaya",
+    "enabled": true,
+    "clients": [
+        {
+            "clientId": "calendar-activities",
+            "secret": "123456",
+            "enabled": true,
+            "protocol": "openid-connect",
+            "publicClient": false,
+            "redirectUris": ["http://localhost:3000/*"]
+        }
+    ],
+    "users": [
+        {
+            "username": "darvin",
+            "enabled": true,
+            "emailVerified": true,
+            "firstName": "Darvin",
+            "lastName": "Vinueza",
+            "email": "darvin@example.com",
+            "credentials": [
+                {
+                    "type": "password",
+                    "value": "123456",
+                    "temporary": false
+                }
+            ]
+        }
+    ]
+}
